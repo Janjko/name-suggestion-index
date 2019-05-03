@@ -2889,6 +2889,17 @@
       "name": "Crédito Agrícola"
     }
   },
+  "amenity/bank|Croatia banka": {
+    "count": 0,
+    "countryCodes": ["hr"],
+    "tags": {
+      "amenity": "bank",
+      "brand": "Croatia banka",
+      "brand:wikidata": "Q25495576",
+      "brand:wikipedia": "hr:Croatia_banka",
+      "name": "Croatia banka"
+    }
+  },
   "amenity/bank|Cбербанк": {
     "count": 71,
     "tags": {
@@ -4725,6 +4736,17 @@
       "brand": "Sparkasse",
       "brand:wikidata": "Q13601825",
       "name": "Sparkasse"
+    }
+  },
+  "amenity/bank|Splitska banka": {
+    "count": 0,
+    "countryCodes": ["hr"],
+    "tags": {
+      "amenity": "bank",
+      "brand": "Splitska banka",
+      "brand:wikidata": "Q2311854",
+      "brand:wikipedia": "hr:Splitska_banka",
+      "name": "Splitska banka"
     }
   },
   "amenity/bank|Stanbic Bank": {
