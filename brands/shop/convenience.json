@@ -924,8 +924,11 @@
   },
   "shop/convenience|Mercator": {
     "count": 136,
+    "countryCodes": ["sl","ba","rs","mk","me"],
     "tags": {
       "brand": "Mercator",
+      "brand:wikidata": "Q738412",
+      "brand:wikipedia": "sl:Mercator",
       "name": "Mercator",
       "shop": "convenience"
     }
