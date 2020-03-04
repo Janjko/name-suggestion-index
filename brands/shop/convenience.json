@@ -133,6 +133,16 @@
       "shop": "convenience"
     }
   },
+  "shop/convenience|Bakmaz": {
+    "countryCodes": ["hr"],
+    "tags": {
+      "brand": "Bakmaz",
+      "brand:wikidata": "Q65132948",
+      "brand:wikipedia": "hr:Bakmaz",
+      "name": "Bakmaz",
+      "shop": "convenience"
+    }
+  },
   "shop/convenience|BP Shop": {
     "count": 116,
     "nomatch": ["amenity/fuel|BP"],
@@ -477,6 +487,14 @@
       "shop": "convenience"
     }
   },
+  "shop/convenience|Diona": {
+    "countryCodes": ["hr"],
+    "tags": {
+      "brand": "Diona",
+      "name": "Diona",
+      "shop": "convenience"
+    }
+  },
   "shop/convenience|Epicerie": {
     "count": 616,
     "tags": {
@@ -576,6 +594,14 @@
     "tags": {
       "brand": "Freshmarket",
       "name": "Freshmarket",
+      "shop": "convenience"
+    }
+  },
+  "shop/convenience|Gavranović": {
+    "countryCodes": ["hr"],
+    "tags": {
+      "brand": "Gavranović",
+      "name": "Gavranović",
       "shop": "convenience"
     }
   },
@@ -737,9 +763,20 @@
   },
   "shop/convenience|Konzum": {
     "count": 245,
+    "countryCodes": ["hr","ba","rs"],
     "tags": {
       "brand": "Konzum",
+      "brand:wikidata": "Q518563",
+      "brand:wikipedia": "hr:Konzum",
       "name": "Konzum",
+      "shop": "convenience"
+    }
+  },
+  "shop/convenience|KTC": {
+    "countryCodes": ["hr"],
+    "tags": {
+      "brand": "KTC",
+      "name": "KTC",
       "shop": "convenience"
     }
   },
@@ -1071,6 +1108,16 @@
       "shop": "convenience"
     }
   },
+  "shop/convenience|Plodine": {
+    "countryCodes": ["hr"],
+    "tags": {
+      "brand": "Plodine",
+      "brand:wikidata": "Q65123899",
+      "brand:wikipedia": "hr:Plodine",
+      "name": "Plodine",
+      "shop": "convenience"
+    }
+  },
   "shop/convenience|Premier": {
     "count": 373,
     "tags": {
@@ -1313,8 +1360,11 @@
   },
   "shop/convenience|Studenac": {
     "count": 122,
+    "countryCodes": ["hr"],
     "tags": {
       "brand": "Studenac",
+      "brand:wikidata": "Q65156084",
+      "brand:wikipedia": "hr:Studenac"
       "name": "Studenac",
       "shop": "convenience"
     }
@@ -1447,12 +1497,38 @@
       "shop": "convenience"
     }
   },
+  "shop/convenience|Tommy": {
+    "countryCodes": ["hr"],
+    "tags": {
+      "brand": "Tommy",
+      "brand:wikidata": "Q12643718",
+      "brand:wikipedia": "hr:Tommy",
+      "name": "Tommy",
+      "shop": "convenience"
+    }
+  },
   "shop/convenience|Total": {
     "count": 195,
     "nomatch": ["amenity/fuel|Total"],
     "tags": {
       "brand": "Total",
       "name": "Total",
+      "shop": "convenience"
+    }
+  },
+  "shop/convenience|Trgocentar": {
+    "countryCodes": ["hr"],
+    "tags": {
+      "brand": "Trgocentar",
+      "name": "Trgocentar",
+      "shop": "convenience"
+    }
+  },
+  "shop/convenience|Trgostil": {
+    "countryCodes": ["hr"],
+    "tags": {
+      "brand": "Trgostil",
+      "name": "Trgostil",
       "shop": "convenience"
     }
   },
