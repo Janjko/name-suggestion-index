@@ -789,6 +789,7 @@
       "amenity": "fuel",
       "brand": "Crodux",
       "brand:wikidata": "Q62274622",
+      "brand:wikipedia": "Q62274622",
       "name": "Crodux"
     }
   },
@@ -1316,6 +1317,15 @@
       "amenity": "fuel",
       "brand": "IPT",
       "name": "IPT"
+    }
+  },
+  "amenity/fuel|INA": {
+    "tags": {
+      "amenity": "fuel",
+      "brand": "INA",
+      "brand:wikidata": "Q1662137",
+      "brand:wikipedia": "hr:INA",
+      "name": "INA"
     }
   },
   "amenity/fuel|Indian Oil": {
@@ -2784,6 +2794,13 @@
       "brand:wikidata": "Q7796584",
       "brand:wikipedia": "en:Thorntons LLC",
       "name": "Thorntons"
+    }
+  },
+  "amenity/fuel|Tifon": {
+    "tags": {
+      "amenity": "fuel",
+      "brand": "Tifon",
+      "name": "Tifon"
     }
   },
   "amenity/fuel|Tinq": {
